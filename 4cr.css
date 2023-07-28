@@ -1,0 +1,41 @@
+.hd{
+    color: azure;
+    background-color: black;
+    width: max-content;
+    margin-left: 500px;
+}
+.im{
+   
+    display: flex;
+}
+.im1{
+   height: 250px;
+   width: 250px;
+   border:solid 15px black;
+   border-radius: 20px;
+}
+.im2{
+    height: 250px;
+    width: 250px;
+    margin-left: 650px;
+    margin-bottom: 20px;
+    border:solid 15px black;
+    border-radius: 20px;
+ }
+ .im3{
+    height: 250px;
+    width: 250px;
+    border:solid 15px black;
+    border-radius: 20px;
+ }
+ .im4{
+    height: 250px;
+    width: 250px;
+    margin-left: 650px;
+    border:solid 15px black;
+    border-radius: 20px;
+ }
+ .vd{
+    
+    margin-left: 360px;
+ }
